@@ -6,7 +6,7 @@
 - Дата: 23.11.2026
 - Автор: Худокормов Ілля Владиславович, група ПЗПІ-23-1, e-mail illia.khudokormov@nure.ua
 - Ліцензія: Apache-2.0
-- Посилання на архів: <lab03-mas.zip на Google Диску>
+- Посилання на архів: https://drive.google.com/file/d/13hOIwRiJ5X4Wdx2RScveWf-wOZwlRcXb/view?usp=sharing
 
 ## 2. Призначення
 - Задача: за описом проєкту і стейкхолдерів підготувати сценарій інтерв'ю з виявлення вимог
