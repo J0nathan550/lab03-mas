@@ -1,0 +1,52 @@
+[
+  {
+    "code": "B01",
+    "id": "R4",
+    "system": "team"
+  },
+  {
+    "code": "B02",
+    "id": "R5",
+    "system": "solo"
+  },
+  {
+    "code": "B03",
+    "id": "R3",
+    "system": "team"
+  },
+  {
+    "code": "B04",
+    "id": "R2",
+    "system": "solo"
+  },
+  {
+    "code": "B05",
+    "id": "R4",
+    "system": "solo"
+  },
+  {
+    "code": "B06",
+    "id": "R5",
+    "system": "team"
+  },
+  {
+    "code": "B07",
+    "id": "R1",
+    "system": "solo"
+  },
+  {
+    "code": "B08",
+    "id": "R3",
+    "system": "solo"
+  },
+  {
+    "code": "B09",
+    "id": "R2",
+    "system": "team"
+  },
+  {
+    "code": "B10",
+    "id": "R1",
+    "system": "team"
+  }
+]

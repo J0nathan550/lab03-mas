@@ -1,0 +1,10 @@
+id,repeat,experts,llm_calls,tokens,seconds
+R1,1,conflict_expert+interview_expert+stakeholder_expert,5,9189,41.81
+R1,2,conflict_expert+interview_expert+stakeholder_expert,5,9503,39.26
+R1,3,conflict_expert+interview_expert+stakeholder_expert,5,9837,42.98
+R2,1,conflict_expert+interview_expert+stakeholder_expert,5,10090,40.51
+R2,2,conflict_expert+interview_expert+stakeholder_expert,5,10344,42.93
+R2,3,conflict_expert+interview_expert+stakeholder_expert,5,9013,32.22
+R3,1,conflict_expert+interview_expert+stakeholder_expert,5,8537,36.99
+R3,2,conflict_expert+interview_expert+stakeholder_expert,5,9182,40.58
+R3,3,conflict_expert+interview_expert+stakeholder_expert,5,8191,33.88

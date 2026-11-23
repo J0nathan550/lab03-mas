@@ -1,0 +1,11 @@
+id,system,stakeholders,questions,closed_questions,question_issues,statements,conflicts,invalid_conflicts,ambiguities,missing_topics,drafts,stop_reason,llm_calls,tokens,seconds
+R1,team,3,9,0,0,9,1,0,5,3,1,approved,5,15249,56.67
+R1,solo,3,6,0,0,6,3,0,3,3,1,single call,1,2945,14.15
+R2,team,3,10,0,0,10,1,0,6,3,2,approved,10,35045,129.72
+R2,solo,3,9,0,0,9,2,0,2,2,1,single call,1,4996,51.1
+R3,team,3,12,0,0,12,3,0,4,3,1,approved,5,18881,75.22
+R3,solo,3,8,0,0,8,2,0,3,2,1,single call,1,4077,39.71
+R4,team,3,9,0,0,9,2,0,5,3,1,approved,5,15649,52.31
+R4,solo,3,8,0,0,8,3,0,2,2,1,single call,1,3696,34.85
+R5,team,3,9,0,0,9,2,0,5,3,1,approved,5,16607,62.79
+R5,solo,3,6,0,0,6,1,0,2,2,1,single call,1,1495,18.78
